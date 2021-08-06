@@ -1,0 +1,3 @@
+fastafile	Rhodobacter_target.fna
+random	5
+reference	reference_genomes

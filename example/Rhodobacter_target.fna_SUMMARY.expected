@@ -1,0 +1,10 @@
+Target genome: ../../../plugins/MEDUSA/example//Rhodobacter_target.fna
+
+--------------SCAFFOLDS---------------
+
+Number of scaffolds: 83 (singletons = 35, multi-contig scaffold = 48) 
+from 564 initial fragments.
+Total length of the jointed fragments: 4179467
+Computing N50 on 83 sequences.
+N50: 111397.0
+----------------------

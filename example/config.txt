@@ -1,0 +1,2 @@
+Prefix plugins/MEDUSA/example
+Plugin MEDUSA inputfile parameters.txt outputfile scaffolds
